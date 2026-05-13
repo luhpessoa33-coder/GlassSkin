@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="40" fill="#090D1A"/>
+  <circle cx="96" cy="96" r="70" fill="none" stroke="#C9A88A" stroke-width="4" opacity="0.3"/>
+  <text x="96" y="78" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#C9A88A">✦</text>
+  <text x="96" y="118" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" letter-spacing="2" fill="#C9A88A">GLASS</text>
+  <text x="96" y="136" text-anchor="middle" font-family="Arial" font-size="10" letter-spacing="3" fill="#A89878">SKIN</text>
+</svg>
